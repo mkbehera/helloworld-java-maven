@@ -1,4 +1,4 @@
-This is my fixsssed for DevOpsSchool.com
+This is my fixsssed for DevOpsSchool.commmnmmn
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 # this isddd a fix og sdfljflld fjldsfjdsjfkdl;sdasdasdasd
 # ========================NEXUS==============================
